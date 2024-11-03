@@ -1,4 +1,7 @@
-Power BI Dashboard 📊
+## Table of Content
+[Table of Content](#Table-of-Content)
+[Poewr BI Dashboard](#Power-BI-Dashboard)
+## Power BI Dashboard 📊
 
 This project contains an interactive dashboard built using Power BI to analyze and visualize data dynamically. It is designed to provide key insights from various data sources, supporting better business decision-making.
 
@@ -6,4 +9,4 @@ This project contains an interactive dashboard built using Power BI to analyze a
 
 •	Develop visualizations and reports to effectively communicate insights on employee promotions, retrenchment risks, performance scores, and workforce distribution by job level, supporting data-driven decision-making in HR operations.
 
-[Judul Bagian](#judul-bagian)
+
