@@ -7,7 +7,7 @@
 🖥️ [Power BI Dashboard 📊](#Power-BI-Dashboard)
 
 ## Introduction
-This project focuses on the analysis of a public dataset provided by Olist, a Brazilian e-commerce company. The dataset includes information about customer orders, products, payments, reviews, and more. The goal of this project is to extract meaningful insights from the data that can help improve business strategies and customer experience.
+This project focuses on the development of an HR Dashboard using Power BI, aimed at analyzing human resources data within the organization. The dashboard processes information related to employees, including data on promotions, retrenchment risks, performance scores, and workforce distribution. The goal of this project is to extract meaningful insights from this data, helping to improve business strategies and employee experience.
 
 ## Power BI Dashboard 📊
 
