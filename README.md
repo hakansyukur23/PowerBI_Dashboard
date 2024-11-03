@@ -11,6 +11,8 @@ This project focuses on the development of an HR Dashboard using Power BI, aimed
 
 ## Power BI Dashboard 📊
 
+![PowerBI Dashboard](Picture/Home.png)
+
 This project contains an interactive dashboard built using Power BI to analyze and visualize data dynamically. It is designed to provide key insights from various data sources, supporting better business decision-making.
 
 •	Transformed and Analyzed Data with Power Query: Utilized Power Query in Power BI to clean and transform raw, unstructured data from CSV files, making it suitable for further analysis.
